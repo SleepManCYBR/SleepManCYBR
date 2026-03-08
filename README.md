@@ -28,12 +28,18 @@
 
 ---
 
-## Stack
+## Stack & Environment
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"> &nbsp;
   <img src="https://cdn.simpleicons.org/kalilinux/white" width="50" title="Kali Linux" style="filter: sepia(100%) hue-rotate(340deg) brightness(90%);">
 </p>
+
+**Software Versions**
+* **Python:** 3.12.x
+* **OS:** Kali Linux 2024.1 / Windows 11
+* **IDE:** VS Code / PyCharm
+* **Terminal:** ZSH / Oh My Zsh
 
 ---
 
