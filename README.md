@@ -18,13 +18,17 @@
 
 ---
 
-## Connect with me
-
 <p align="center">
   <a href="https://discord.com/users/noreal_man">
     <img src="https://img.shields.io/badge/DISCORD-JOIN%20THE%20CLUB-6F4E37?style=for-the-badge&logo=discord&logoColor=F5F5DC&labelColor=4B3621" height="70">
   </a>
 </p>
+
+---
+
+## About Me
+
+Cybersecurity enthusiast focused on **Python automation**, **OSINT research**, and **reconnaissance tools**.
 
 ---
 
@@ -55,6 +59,20 @@ Shodan • Maltego • Amass • theHarvester • Recon-ng
 
 ---
 
-## About Me
+## Recent Activity & Status
 
-Cybersecurity enthusiast focused on **Python automation**, **OSINT research**, and **reconnaissance tools**.
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Active_Recon-6F4E37?style=flat-square&labelColor=4B3621"> 
+  <img src="https://img.shields.io/badge/Focus-Python_Automation-6F4E37?style=flat-square&labelColor=4B3621">
+</p>
+
+> [!TIP]
+> **Current Objective:** Developing advanced reconnaissance modules and automating OSINT workflows.
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&bg_color=0D1117&text_color=F5F5DC&quote_color=6F4E37" alt="Quote" />
+</p>
+
+<p align="right">
+  <i>Last updated: 2026</i>
+</p>
