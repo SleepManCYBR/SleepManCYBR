@@ -33,8 +33,8 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="50" title="Kali Linux"> &nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/obsidian.svg" width="50" title="Obsidian"> &nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/tor-browser-1.svg" width="50" title="Tor Browser">
+  <img src="https://cdn.simpleicons.org/obsidian/white" width="50" title="Obsidian" style="background-color: #483699; border-radius: 5px; padding: 2px;"> &nbsp;
+  <img src="https://cdn.simpleicons.org/torbrowser/white" width="50" title="Tor Browser" style="background-color: #7D4698; border-radius: 5px; padding: 2px;">
 </p>
 
 ---
@@ -42,19 +42,7 @@
 ## Environment & Versions
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3.12.x-6F4E37?style=for-the-badge&labelColor=4B3621">
-  <img src="https://img.shields.io/badge/OS-Kali_2024.1-6F4E37?style=for-the-badge&labelColor=4B3621">
-  <img src="https://img.shields.io/badge/OS-Windows_11-6F4E37?style=for-the-badge&labelColor=4B3621">
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/IDE-VS_Code-6F4E37?style=for-the-badge&labelColor=4B3621">
-  <img src="https://img.shields.io/badge/Knowledge-Obsidian-6F4E37?style=for-the-badge&labelColor=4B3621">
-  <img src="https://img.shields.io/badge/Browser-Tor-6F4E37?style=for-the-badge&labelColor=4B3621">
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Terminal-ZSH-6F4E37?style=for-the-badge&labelColor=4B3621">
+  <img src="https://img.shields.io/badge/Python-3.12.x-6F4E37?style=for-the-badge&labelColor=4B3621"> <img src="https://img.shields.io/badge/OS-Kali_2024.1-6F4E37?style=for-the-badge&labelColor=4B3621"> <img src="https://img.shields.io/badge/IDE-VS_Code-6F4E37?style=for-the-badge&labelColor=4B3621"> <img src="https://img.shields.io/badge/Note-Obsidian-6F4E37?style=for-the-badge&labelColor=4B3621"> <img src="https://img.shields.io/badge/Web-Tor-6F4E37?style=for-the-badge&labelColor=4B3621"> <img src="https://img.shields.io/badge/Term-ZSH-6F4E37?style=for-the-badge&labelColor=4B3621">
 </p>
 
 ---
