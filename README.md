@@ -28,21 +28,34 @@
 
 ---
 
-## Stack & Environment
+## Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"> &nbsp;
-  <img src="https://cdn.simpleicons.org/kalilinux/white" width="50" title="Kali Linux" style="filter: sepia(100%) hue-rotate(340deg) brightness(90%);"> &nbsp;
-  <img src="https://cdn.simpleicons.org/obsidian/white" width="50" title="Obsidian"> &nbsp;
-  <img src="https://cdn.simpleicons.org/torbrowser/white" width="50" title="Tor Browser" style="filter: sepia(100%) hue-rotate(340deg) brightness(90%);">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="50" title="Kali Linux"> &nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/obsidian.svg" width="50" title="Obsidian"> &nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/tor-browser-1.svg" width="50" title="Tor Browser">
 </p>
 
-**Software Versions**
-* **Python:** 3.12.x
-* **OS:** Kali Linux 2024.1 / Windows 11
-* **IDE:** VS Code / Obsidian (Knowledge Base)
-* **Privacy:** Tor Browser 13.x
-* **Terminal:** ZSH / Oh My Zsh
+---
+
+## Environment & Versions
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3.12.x-6F4E37?style=for-the-badge&labelColor=4B3621">
+  <img src="https://img.shields.io/badge/OS-Kali_2024.1-6F4E37?style=for-the-badge&labelColor=4B3621">
+  <img src="https://img.shields.io/badge/OS-Windows_11-6F4E37?style=for-the-badge&labelColor=4B3621">
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/IDE-VS_Code-6F4E37?style=for-the-badge&labelColor=4B3621">
+  <img src="https://img.shields.io/badge/Knowledge-Obsidian-6F4E37?style=for-the-badge&labelColor=4B3621">
+  <img src="https://img.shields.io/badge/Browser-Tor-6F4E37?style=for-the-badge&labelColor=4B3621">
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Terminal-ZSH-6F4E37?style=for-the-badge&labelColor=4B3621">
+</p>
 
 ---
 
