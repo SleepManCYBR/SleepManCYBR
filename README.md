@@ -1,51 +1,52 @@
 <p align="center">
-  <img src="sleep_man_github_banner.gif" alt="Sleep Man Banner"/>
+<img src="sleep_man_cyber_banner.gif">
 </p>
 
 <h1 align="center">Sleep Man</h1>
+
 <p align="center">
-Cybersecurity Specialist • Python Developer
+Cybersecurity Specialist • Python • OSINT
 </p>
 
 ---
 
 ## About Me
 
-I am focused on **cybersecurity**, automation and security research using **Python**.
-
-My interests include:
-
-- penetration testing
-- security tools development
-- network analysis
-- OSINT
-- automation scripts
+I work with cybersecurity tools and automation using Python.
+Interested in OSINT, reconnaissance, and security research.
 
 ---
 
-## Tech Stack
+## Stack
 
-🐍 Python  
-🔐 Cybersecurity  
-🖥 Linux  
-🌐 Networking  
+<p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"> Python
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"> Linux
+
+<img src="https://img.shields.io/badge/OSINT-Recon-black?style=flat-square"> OSINT Tools
+
+</p>
 
 ---
 
-## Current Focus
+## Tools I Use
 
-- Security automation tools
-- Python scripts for pentesting
-- Research in vulnerabilities
+• Shodan
+• Maltego
+• Amass
+• theHarvester
+• Recon-ng
 
 ---
 
 ## Contact
 
-Discord: **noreal_man**
-
----
-
 <p align="center">
-"Security is not a product — it is a process."
+
+<a href="#">
+<img src="https://img.shields.io/badge/Discord-noreal__man-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+
 </p>
