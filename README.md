@@ -6,7 +6,11 @@
   <img src="sleep_man_cyber_banner.gif">
 </p>
 
-<h1 align="center" style="color: #6F4E37;">🤎 Sleep Man 🤎</h1>
+<p align="center">
+  <a href="https://discord.com/users/noreal_man">
+    <img src="https://img.shields.io/badge/—_SLEEP_MAN_—-6F4E37?style=for-the-badge&logoColor=F5F5DC&labelColor=4B3621" height="60">
+  </a>
+</p>
 
 <p align="center">
 <b>Cybersecurity • Python • OSINT</b>
