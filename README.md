@@ -32,13 +32,16 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"> &nbsp;
-  <img src="https://cdn.simpleicons.org/kalilinux/white" width="50" title="Kali Linux" style="filter: sepia(100%) hue-rotate(340deg) brightness(90%);">
+  <img src="https://cdn.simpleicons.org/kalilinux/white" width="50" title="Kali Linux" style="filter: sepia(100%) hue-rotate(340deg) brightness(90%);"> &nbsp;
+  <img src="https://cdn.simpleicons.org/obsidian/white" width="50" title="Obsidian"> &nbsp;
+  <img src="https://cdn.simpleicons.org/torbrowser/white" width="50" title="Tor Browser" style="filter: sepia(100%) hue-rotate(340deg) brightness(90%);">
 </p>
 
 **Software Versions**
 * **Python:** 3.12.x
 * **OS:** Kali Linux 2024.1 / Windows 11
-* **IDE:** VS Code / PyCharm
+* **IDE:** VS Code / Obsidian (Knowledge Base)
+* **Privacy:** Tor Browser 13.x
 * **Terminal:** ZSH / Oh My Zsh
 
 ---
