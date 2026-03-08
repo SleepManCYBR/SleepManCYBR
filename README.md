@@ -5,15 +5,14 @@
 <h1 align="center">Sleep Man</h1>
 
 <p align="center">
-Cybersecurity Specialist • Python • OSINT
+Cybersecurity • Python • OSINT
 </p>
 
 ---
 
 ## About Me
 
-I work with cybersecurity tools and automation using Python.
-Interested in OSINT, reconnaissance, and security research.
+Cybersecurity enthusiast focused on **Python automation**, **OSINT research**, and **reconnaissance tools**.
 
 ---
 
@@ -23,21 +22,17 @@ Interested in OSINT, reconnaissance, and security research.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"> Python
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"> Linux
+<img src="https://cdn.simpleicons.org/kalilinux/white" width="40"> Kali Linux
 
-<img src="https://img.shields.io/badge/OSINT-Recon-black?style=flat-square"> OSINT Tools
+<img src="https://img.icons8.com/ios-filled/50/ffffff/visible.png" width="40"> OSINT
 
 </p>
 
 ---
 
-## Tools I Use
+## OSINT Tools
 
-• Shodan
-• Maltego
-• Amass
-• theHarvester
-• Recon-ng
+Shodan • Maltego • Amass • theHarvester • Recon-ng
 
 ---
 
@@ -45,8 +40,8 @@ Interested in OSINT, reconnaissance, and security research.
 
 <p align="center">
 
-<a href="#">
-<img src="https://img.shields.io/badge/Discord-noreal__man-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+<a href="https://discord.com/users/">
+<img src="https://img.shields.io/badge/Discord-noreal__man-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=404EED">
 </a>
 
 </p>
