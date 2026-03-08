@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/noreal_man">
-    <img src="https://img.shields.io/badge/—_SLEEP_MAN_—-6F4E37?style=for-the-badge&logoColor=F5F5DC&labelColor=4B3621" height="60">
+    <img src="https://img.shields.io/badge/—_SLEEP_MAN_—-6F4E37?style=for-the-badge&logoColor=F5F5DC&labelColor=4B3621" height="90">
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 
 ---
 
-## ☕ Connect with me
+## Connect with me
 
 <p align="center">
   <a href="https://discord.com/users/noreal_man">
@@ -28,7 +28,7 @@
 
 ---
 
-## 🛠 Stack
+## Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"> &nbsp;
@@ -37,7 +37,7 @@
 
 ---
 
-## 🔍 OSINT Tools
+## OSINT Tools
 
 <p style="color: #8B4513;">
 Shodan • Maltego • Amass • theHarvester • Recon-ng
@@ -45,12 +45,6 @@ Shodan • Maltego • Amass • theHarvester • Recon-ng
 
 ---
 
-## 📝 About Me
+## About Me
 
 Cybersecurity enthusiast focused on **Python automation**, **OSINT research**, and **reconnaissance tools**.
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ТВОЙ_НИК&color=6F4E37&style=flat-square&label=VISITORS" alt="Views" />
-</p>
