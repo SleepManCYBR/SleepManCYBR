@@ -14,23 +14,17 @@ Cybersecurity • Python • OSINT
 
 ---
 
-## Contact & Socials
+## ⚡ Connect with me
 
 <p align="center">
   <a href="https://discord.com/users/noreal_man">
-    <img src="https://img.shields.io/badge/Discord-Connect%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="55">
+    <img src="https://img.shields.io/badge/DISCORD-JOIN%20THE%20SERVER-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=36393f" height="65">
   </a>
 </p>
 
 ---
 
-## About Me
-
-Cybersecurity enthusiast focused on **Python automation**, **OSINT research**, and **reconnaissance tools**.
-
----
-
-## Stack
+## 🛠 My Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"> &nbsp;
@@ -39,24 +33,24 @@ Cybersecurity enthusiast focused on **Python automation**, **OSINT research**, a
 
 ---
 
-## OSINT Tools
+## 🔍 OSINT Tools
 
 Shodan • Maltego • Amass • theHarvester • Recon-ng
 
 ---
 
-## My GitHub Contribution Snake 🐍
+## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ТВОЙ_НИК/ТВОЙ_НИК/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=matrix&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&icon_color=00FF41" alt="Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" alt="Top Langs" />
 </p>
 
 ---
 
-## Statistics 📊
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://komarev.com/ghpvc/?username=ТВОЙ_НИК&color=00FF41&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
 </p>
