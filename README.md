@@ -39,7 +39,7 @@ Cybersecurity enthusiast focused on **Python automation**, **OSINT research**, a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="50" title="Kali Linux"> &nbsp;
   <img src="https://cdn.simpleicons.org/obsidian/white" width="50" title="Obsidian" style="background-color: #483699; border-radius: 5px; padding: 2px;"> &nbsp;
   <img src="https://cdn.simpleicons.org/torbrowser/white" width="50" title="Tor Browser" style="background-color: #7D4698; border-radius: 5px; padding: 2px;"> &nbsp;
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/maltego.svg" width="50" title="Maltego" style="background-color: #DE410E; border-radius: 5px; padding: 2px;">
+  <img src="https://img.shields.io/badge/Maltego-DE410E?style=for-the-badge&logo=maltego&logoColor=white" height="46" title="Maltego" style="border-radius: 5px;">
 </p>
 
 ---
